@@ -15,11 +15,11 @@ public class Cachorro{
     public void setCor(String cor){
         this.cor = cor;
     }
-    public void setTamanho(float tamanho){
-        this.tamanho = tamanho;
+    public void setAltura(float altura){
+        this.altura = altura;
     }
     public float getTamanho(){
-        return tamanho;
+        return altura;
     }
 }
 
